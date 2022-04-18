@@ -1,0 +1,17 @@
+body{
+  background-color: #001E6C;
+}
+h1{
+  color: gold;
+   font-size: 100px;
+ text-transform: uppercase;
+}
+ p{color: #FFBDE6;
+font-size: 20px;
+font-style: oblique -60deg;
+font-family: "Gill Sans Extrabold", sans-serif;
+align-content: center;
+ }
+ img{background-color: #FFBDE6;}
+h2{color: #66BFBF;}
+h3{color: gold;}
